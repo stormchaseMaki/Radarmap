@@ -1,3 +1,3 @@
-<iframe width="1980" height="1080" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=12.579345703125002%2C44.21789561913387%2C19.643554687500004%2C46.75515431446624&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/#map=8/45.501/16.111">View Larger Map</a></small>
+<iframe src="https://www.rainviewer.com/map.html?loc=45.5301,17.2595,7&oFa=0&oC=0&oU=0&oCS=0&oF=1&oAP=1&c=5&o=50&lm=1&layer=radar&sm=0&sn=0&hu=0" width="100%" frameborder="0" style="border:0;height:50vh;" allowfullscreen></iframe>
 
 You can explore this map [as its own web page here](myexample.html).
