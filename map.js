@@ -14,9 +14,9 @@ var map_35e7b192f95e41ce860f860043f86c3b = L.map(
                 {"attribution": "Data by \u0026copy; \u003ca href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
             ).addTo(map_35e7b192f95e41ce860f860043f86c3b);
 
-            var overlay = L.imageLayer ("http://vrijeme.hr/bilogora-stat.png",
+            var overlay = L.imageLayer (url= 'http://vrijeme.hr/bilogora-stat.png',
                                  
                                     center: [45.75, 16.35],
-                                    opacity: 0.5,
+                                    opacity: 0.5
                                   
                                 ).addTo(map_35e7b192f95e41ce860f860043f86c3b);
