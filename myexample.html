@@ -58,12 +58,8 @@
     
 var radarUrl = 'https://vrijeme.hr/bilogora-stat.png';
 var radarDisplayOptions = {
-     bounds=[        
-        [26.954778413559467, -18.960764010156442],
-        [69.17386061853473, 52.828854567988834],
-    ],
-  format: 'image/png',
-  transparent: true
+    center: { lat: 46.083, lng: 16.403 },
+    format: 'image/png',
 };
 var radar = L.imageLayer(radarUrl, radarDisplayOptions).addTo(map_35e7b192f95e41ce860f860043f86c3b);
 
