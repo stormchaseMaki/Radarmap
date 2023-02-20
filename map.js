@@ -15,8 +15,8 @@ var map_35e7b192f95e41ce860f860043f86c3b = L.map(
             ).addTo(map_35e7b192f95e41ce860f860043f86c3b);
 
             var overlay = L.imageLayer ("http://vrijeme.hr/bilogora-stat.png",
-                                  {
-                                    "center": [45.75, 16.35],
-                                    "opacity": 0.5,
-                                  }
+                                 
+                                    center: [45.75, 16.35],
+                                    opacity: 0.5,
+                                  
                                 ).addTo(map_35e7b192f95e41ce860f860043f86c3b);
