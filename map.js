@@ -1,6 +1,4 @@
-<script>    
-    
-            var map_35e7b192f95e41ce860f860043f86c3b = L.map(
+var map_35e7b192f95e41ce860f860043f86c3b = L.map(
                 "map_35e7b192f95e41ce860f860043f86c3b",
                 {
                     center: [45.75, 16.35],
@@ -40,5 +38,3 @@ function addOverlayToMap() {
 }
 
 addOverlayToMap();
-
-</script>
